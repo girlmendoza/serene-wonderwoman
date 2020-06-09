@@ -124,14 +124,32 @@ body{
      .wellequipped-content{margin-top: 35px;}
      .wellequipped-img{
          max-width: 300px;
+        
      }
 
      .equip-name{
-        font-weight: 600; font-size: 18px; line-height: 25px; color:white;        
+        font-weight: 600; font-size: 20px; line-height: 25px; color:white;       
         position: absolute;
         top: 50%;
         left: 50%;
-        transform: translate(-50%, -50%)
-    }
+        transform: translate(-50%, -50%);
+     }
+       
+    
+     /* Footer Section*/
+     td, th {
+         padding: 10px;
+     }
+
+     .copyright-footer {
+        text-align: center;
+        box-shadow: none;
+        padding: 10px 35px;
+        border: none;
+        background: #96772c !important;
+        color: #ffffff !important;
+        
+     }
+        
     
  
