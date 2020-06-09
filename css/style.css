@@ -118,3 +118,20 @@ body{
         background: #96772c !important;
         color: #ffffff !important;
      }
+
+     /* Well Equipped Section*/
+     .wellequipped-title{margin-top: 50px;font-weight: 600; font-size: 30px; line-height: 41px; color: #333;}
+     .wellequipped-content{margin-top: 35px;}
+     .wellequipped-img{
+         max-width: 300px;
+     }
+
+     .equip-name{
+        font-weight: 600; font-size: 18px; line-height: 25px; color:white;        
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%)
+    }
+    
+ 
